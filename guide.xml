@@ -72,16 +72,16 @@
     <display-name lang="tr">Kanal D HD (24)</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="ATV HD (25)">
-    <display-name lang="tr">ATV HD (25)</display-name>
+  <channel id="ATV HD-TR">
+    <display-name lang="tr">ATV HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="FOX HD (26)">
+  <channel id="FOX-HD-TR.TR">
     <display-name lang="tr">FOX HD (26)</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="Star TV HD (27)">
-    <display-name lang="tr">Star TV HD (27)</display-name>
+  <channel id="Star-TV-HD.TR">
+    <display-name lang="tr">Star TV HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="TV8 HD (28)">
@@ -448,8 +448,8 @@
     <display-name lang="tr">Yaban TV (189)</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="TRT Belgesel HD (190)">
-    <display-name lang="tr">TRT Belgesel HD (190)</display-name>
+  <channel id="TRT.Belgesel.HD.tr">
+    <display-name lang="tr">TRT Belgesel HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="Discovery Channel HD (191)">
@@ -484,8 +484,8 @@
     <display-name lang="tr">Taraftar 2 HD (205)</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="TRT1 HD (323)">
-    <display-name lang="tr">TRT1 HD (323)</display-name>
+  <channel id="TRT.1.HD.tr">
+    <display-name lang="tr">TRT1 HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="TRT World HD (342)">
