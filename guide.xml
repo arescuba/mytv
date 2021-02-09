@@ -28,15 +28,15 @@
     <display-name lang="tr">a News</display-name>
     <url>http://www.dsmart.com.tr</url>
   </channel>
-  <channel id="A News HD (140)">
-    <display-name lang="tr">A News HD (140)</display-name>
+  <channel id="A HABER-TR">
+    <display-name lang="tr">A Haber</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="A PARA-TR">
+  <channel id="A.PARA.tr">
     <display-name lang="tr">A Para</display-name>
     <url>http://www.dsmart.com.tr</url>
   </channel>
-  <channel id="A.SPOR.HD">
+  <channel id="A.SPOR.HD.tr">
     <display-name lang="tr">A Spor HD</display-name>
     <url>http://www.sporekrani.com</url>
   </channel>
