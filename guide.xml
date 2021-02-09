@@ -32,11 +32,11 @@
     <display-name lang="tr">A News HD (140)</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="A Para">
+  <channel id="A PARA-TR">
     <display-name lang="tr">A Para</display-name>
     <url>http://www.dsmart.com.tr</url>
   </channel>
-  <channel id="A Spor HD">
+  <channel id="A SPOR HD">
     <display-name lang="tr">A Spor HD</display-name>
     <url>http://www.sporekrani.com</url>
   </channel>
