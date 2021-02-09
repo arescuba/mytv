@@ -12,8 +12,8 @@
     <display-name lang="tr">24Kitchen</display-name>
     <url>http://www.dsmart.com.tr</url>
   </channel>
-  <channel id="360 HD (29)">
-    <display-name lang="tr">360 HD (29)</display-name>
+  <channel tvg-id="360 TV HD-TR" tvg-name="TV 360 HD">
+    <display-name lang="tr">TV 360 HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="5+1 Concerts (435)">
