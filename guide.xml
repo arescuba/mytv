@@ -228,13 +228,13 @@
     <display-name lang="tr">beIN SPORTS HABER HD (83)</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="beIN SPORTS HD 1 (77)">
-    <display-name lang="tr">beIN SPORTS HD 1 (77)</display-name>
+  <channel id="beIN SPORTS HD 1">
+    <display-name lang="tr">beIN SPORTS HD 1</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="beIN SPORTS HD 2 (78)">
-    <display-name lang="tr">beIN SPORTS HD 2 (78)</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="beIN SPORTS HD 2">
+    <display-name lang="tr">beIN SPORTS HD 2</display-name>
+    <url>digiturk.com.tr</url>
   </channel>
   <channel id="beIN SPORTS HD 3 (79)">
     <display-name lang="tr">beIN SPORTS HD 3 (79)</display-name>
@@ -244,7 +244,7 @@
     <display-name lang="tr">beIN SPORTS HD 4 (80)</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="beIN SPORTS MAX 1 HD (81)">
+  <channel id="beIN.SPORTS.MAX.1.HD.TR">
     <display-name lang="tr">beIN SPORTS MAX 1 HD (81)</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
@@ -254,15 +254,15 @@
   </channel>
   <channel id="Bein Sports">
     <display-name lang="tr">Bein Sports</display-name>
-    <url>http://www.sporekrani.com</url>
+    <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="Bein Sports 2">
+  <channel id="Bein.Sports.2.tr">
     <display-name lang="tr">Bein Sports 2</display-name>
-    <url>http://www.sporekrani.com</url>
+    <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="Bein Sports 3">
     <display-name lang="tr">Bein Sports 3</display-name>
-    <url>http://www.sporekrani.com</url>
+    <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="Bein Sports 4">
     <display-name lang="tr">Bein Sports 4</display-name>
