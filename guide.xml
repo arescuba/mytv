@@ -1,0 +1,1483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="24">
+    <display-name lang="tr">24</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="360">
+    <display-name lang="tr">360</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="24Kitchen">
+    <display-name lang="tr">24Kitchen</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="360 HD (29)">
+    <display-name lang="tr">360 HD (29)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="5+1 Concerts (435)">
+    <display-name lang="tr">5+1 Concerts (435)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="a Haber">
+    <display-name lang="tr">a Haber</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="a News">
+    <display-name lang="tr">a News</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="A News HD (140)">
+    <display-name lang="tr">A News HD (140)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="A Para">
+    <display-name lang="tr">A Para</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="A Spor HD">
+    <display-name lang="tr">A Spor HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="a2">
+    <display-name lang="tr">a2</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="A2 HD (35)">
+    <display-name lang="tr">A2 HD (35)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Akıllı TV">
+    <display-name lang="tr">Akıllı TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Akit TV">
+    <display-name lang="tr">Akit TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Al Jazeera Arabic">
+    <display-name lang="tr">Al Jazeera Arabic</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="AL JAZEERA ENGLISH HD (144)">
+    <display-name lang="tr">AL JAZEERA ENGLISH HD (144)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="tr">Al Jazeera English</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Al Quran Al Kareem TV HD (147)">
+    <display-name lang="tr">Al Quran Al Kareem TV HD (147)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Al Sunnah Al Nabawiyah TV HD (148)">
+    <display-name lang="tr">Al Sunnah Al Nabawiyah TV HD (148)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="ALEM FM (401)">
+    <display-name lang="tr">ALEM FM (401)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Altaş TV">
+    <display-name lang="tr">Altaş TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Ambiance">
+    <display-name lang="tr">Ambiance</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="tr">Animal Planet</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="AS TV">
+    <display-name lang="tr">AS TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="ATV">
+    <display-name lang="tr">ATV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="ATV HD (25)">
+    <display-name lang="tr">ATV HD (25)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="ATV Turkiye SD">
+    <display-name lang="tr">ATV Turkiye SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Baba Radyo (417)">
+    <display-name lang="tr">Baba Radyo (417)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="tr">Baby TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Baby TV (162)">
+    <display-name lang="tr">Baby TV (162)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Bahartürk">
+    <display-name lang="tr">Bahartürk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="tr">BBC Earth</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="BBC EARTH HD (183)">
+    <display-name lang="tr">BBC EARTH HD (183)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BBC Entertainment (115)">
+    <display-name lang="tr">BBC Entertainment (115)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BBC First (114)">
+    <display-name lang="tr">BBC First (114)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="tr">BBC World News</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="BBC World News HD (141)">
+    <display-name lang="tr">BBC World News HD (141)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN BOX OFFICE 1 HD (201)">
+    <display-name lang="tr">beIN BOX OFFICE 1 HD (201)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN BOX OFFICE 2 HD (202)">
+    <display-name lang="tr">beIN BOX OFFICE 2 HD (202)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN BOX OFFICE 3 HD (203)">
+    <display-name lang="tr">beIN BOX OFFICE 3 HD (203)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN GURME HD (21)">
+    <display-name lang="tr">beIN GURME HD (21)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN HD (1)">
+    <display-name lang="tr">beIN HD (1)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN HOME &amp; ENTERTAINMENT HD (19)">
+    <display-name lang="tr">beIN HOME &amp; ENTERTAINMENT HD (19)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN İZ HD (18)">
+    <display-name lang="tr">beIN İZ HD (18)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN İZ HD (182)">
+    <display-name lang="tr">beIN İZ HD (182)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN MOVIES ACTION 2 HD (15)">
+    <display-name lang="tr">beIN MOVIES ACTION 2 HD (15)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN MOVIES ACTION HD (14)">
+    <display-name lang="tr">beIN MOVIES ACTION HD (14)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN MOVIES FAMILY HD (16)">
+    <display-name lang="tr">beIN MOVIES FAMILY HD (16)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN MOVIES PREMIERE 2 HD (12)">
+    <display-name lang="tr">beIN MOVIES PREMIERE 2 HD (12)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN MOVIES PREMIERE HD (11)">
+    <display-name lang="tr">beIN MOVIES PREMIERE HD (11)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN MOVIES STARS HD (13)">
+    <display-name lang="tr">beIN MOVIES STARS HD (13)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN MOVIES TURK HD (17)">
+    <display-name lang="tr">beIN MOVIES TURK HD (17)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SERIES COMEDY HD (4)">
+    <display-name lang="tr">beIN SERIES COMEDY HD (4)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SERIES DRAMA HD (6)">
+    <display-name lang="tr">beIN SERIES DRAMA HD (6)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SERIES SCI-FI HD (2)">
+    <display-name lang="tr">beIN SERIES SCI-FI HD (2)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SERIES VICE HD (5)">
+    <display-name lang="tr">beIN SERIES VICE HD (5)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS HABER HD (83)">
+    <display-name lang="tr">beIN SPORTS HABER HD (83)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS HD 1 (77)">
+    <display-name lang="tr">beIN SPORTS HD 1 (77)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS HD 2 (78)">
+    <display-name lang="tr">beIN SPORTS HD 2 (78)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS HD 3 (79)">
+    <display-name lang="tr">beIN SPORTS HD 3 (79)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS HD 4 (80)">
+    <display-name lang="tr">beIN SPORTS HD 4 (80)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 1 HD (81)">
+    <display-name lang="tr">beIN SPORTS MAX 1 HD (81)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 2 HD (82)">
+    <display-name lang="tr">beIN SPORTS MAX 2 HD (82)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Bein Sports">
+    <display-name lang="tr">Bein Sports</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Bein Sports 2">
+    <display-name lang="tr">Bein Sports 2</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Bein Sports 3">
+    <display-name lang="tr">Bein Sports 3</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Bein Sports 4">
+    <display-name lang="tr">Bein Sports 4</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Bein Sports Kanal 91">
+    <display-name lang="tr">Bein Sports Kanal 91</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Bein Sports Kanal 92">
+    <display-name lang="tr">Bein Sports Kanal 92</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Bengütürk TV">
+    <display-name lang="tr">Bengütürk TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Best FM (409)">
+    <display-name lang="tr">Best FM (409)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Beyaz TV">
+    <display-name lang="tr">Beyaz TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="BEYAZ TV HD (36)">
+    <display-name lang="tr">BEYAZ TV HD (36)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Beykent TV">
+    <display-name lang="tr">Beykent TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Bizimev Tv">
+    <display-name lang="tr">Bizimev Tv</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="BLOOMBERG HD (139)">
+    <display-name lang="tr">BLOOMBERG HD (139)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Bloomberg HT">
+    <display-name lang="tr">Bloomberg HT</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Bloomberg HT HD (31)">
+    <display-name lang="tr">Bloomberg HT HD (31)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="tr">Boomerang</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="BOOMERANG HD (168)">
+    <display-name lang="tr">BOOMERANG HD (168)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BRT 1">
+    <display-name lang="tr">BRT 1</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Bursaspor TV">
+    <display-name lang="tr">Bursaspor TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="tr">Cartoon Network</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Cartoon Network (169)">
+    <display-name lang="tr">Cartoon Network (169)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CBEEBIES HD (161)">
+    <display-name lang="tr">CBEEBIES HD (161)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Cem Tv">
+    <display-name lang="tr">Cem Tv</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="CGTN DOCUMENTARY HD (194)">
+    <display-name lang="tr">CGTN DOCUMENTARY HD (194)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CGTN HD (134)">
+    <display-name lang="tr">CGTN HD (134)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CNN INTERNATIONAL (143)">
+    <display-name lang="tr">CNN INTERNATIONAL (143)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CNN International">
+    <display-name lang="tr">CNN International</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="CNN Türk">
+    <display-name lang="tr">CNN Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="CNN TÜRK HD (42)">
+    <display-name lang="tr">CNN TÜRK HD (42)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CNN TÜRK SD">
+    <display-name lang="tr">CNN TÜRK SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Çifçi TV">
+    <display-name lang="tr">Çifçi TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Çocuk Smart">
+    <display-name lang="tr">Çocuk Smart</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Da Vinci (164)">
+    <display-name lang="tr">Da Vinci (164)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Da Vinci Learning">
+    <display-name lang="tr">Da Vinci Learning</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Digiturk 4K (400)">
+    <display-name lang="tr">Digiturk 4K (400)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="tr">Discovery</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Discovery Channel HD (191)">
+    <display-name lang="tr">Discovery Channel HD (191)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="tr">Discovery Science</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Discovery Science HD (192)">
+    <display-name lang="tr">Discovery Science HD (192)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="tr">Disney Channel</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Disney Channel (167)">
+    <display-name lang="tr">Disney Channel (167)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Disney Junior (165)">
+    <display-name lang="tr">Disney Junior (165)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Diyanet Tv">
+    <display-name lang="tr">Diyanet Tv</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Diyanet TV HD (68)">
+    <display-name lang="tr">Diyanet TV HD (68)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Diyanet Tv Sd">
+    <display-name lang="tr">Diyanet Tv Sd</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Dizi Smart Max">
+    <display-name lang="tr">Dizi Smart Max</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Dizi Smart Premium">
+    <display-name lang="tr">Dizi Smart Premium</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="tr">DMAX</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="DMAX HD (49)">
+    <display-name lang="tr">DMAX HD (49)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="DMAX SD">
+    <display-name lang="tr">DMAX SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="DocuBox">
+    <display-name lang="tr">DocuBox</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Dream Türk">
+    <display-name lang="tr">Dream Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Dream TV">
+    <display-name lang="tr">Dream TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Ege TÃ¼rk TV">
+    <display-name lang="tr">Ege TÃ¼rk TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Ege Tv">
+    <display-name lang="tr">Ege Tv</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Ekotürk">
+    <display-name lang="tr">Ekotürk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="EKOTÜRK TV HD (46)">
+    <display-name lang="tr">EKOTÜRK TV HD (46)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Es TV">
+    <display-name lang="tr">Es TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Euro D">
+    <display-name lang="tr">Euro D</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Euro Star">
+    <display-name lang="tr">Euro Star</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="EURONEWS (145)">
+    <display-name lang="tr">EURONEWS (145)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="tr">Eurosport</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Eurosport 1 HD (71)">
+    <display-name lang="tr">Eurosport 1 HD (71)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="tr">Eurosport 2</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="tr">Eurosport 2 HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Eurosport 2 HD (72)">
+    <display-name lang="tr">Eurosport 2 HD (72)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Eurosport HD">
+    <display-name lang="tr">Eurosport HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="tr">Fashion TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Fashion TV HD (110)">
+    <display-name lang="tr">Fashion TV HD (110)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Fast &amp; Fun">
+    <display-name lang="tr">Fast &amp; Fun</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FB TV">
+    <display-name lang="tr">FB TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="FB TV HD (76)">
+    <display-name lang="tr">FB TV HD (76)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Fight Network Turkey">
+    <display-name lang="tr">Fight Network Turkey</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="FightBox">
+    <display-name lang="tr">FightBox</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FilmBox">
+    <display-name lang="tr">FilmBox</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="tr">FOX</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FOX HD (26)">
+    <display-name lang="tr">FOX HD (26)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="FOX SD">
+    <display-name lang="tr">FOX SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FOX Sports HD">
+    <display-name lang="tr">FOX Sports HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="FOXCRIME">
+    <display-name lang="tr">FOXCRIME</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="FOXLIFE">
+    <display-name lang="tr">FOXLIFE</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="France 24 HD (146)">
+    <display-name lang="tr">France 24 HD (146)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="tr">FX</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="GS TV">
+    <display-name lang="tr">GS TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="GS TV HD (75)">
+    <display-name lang="tr">GS TV HD (75)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Haber Global">
+    <display-name lang="tr">Haber Global</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="HABER GLOBAL HD (47)">
+    <display-name lang="tr">HABER GLOBAL HD (47)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Haber Türk">
+    <display-name lang="tr">Haber Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="HABERTURK HD (44)">
+    <display-name lang="tr">HABERTURK HD (44)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Haberturk SD">
+    <display-name lang="tr">Haberturk SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Halk TV">
+    <display-name lang="tr">Halk TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Halk TV (53)">
+    <display-name lang="tr">Halk TV (53)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Hentbol Web TV">
+    <display-name lang="tr">Hentbol Web TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="ID">
+    <display-name lang="tr">ID</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Insight TV">
+    <display-name lang="tr">Insight TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kadırga TV">
+    <display-name lang="tr">Kadırga TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="KAFA RADYO (408)">
+    <display-name lang="tr">KAFA RADYO (408)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Kanal 16">
+    <display-name lang="tr">Kanal 16</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal 16 Bursa">
+    <display-name lang="tr">Kanal 16 Bursa</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="KANAL 24 HD (40)">
+    <display-name lang="tr">KANAL 24 HD (40)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Kanal 26">
+    <display-name lang="tr">Kanal 26</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal 28">
+    <display-name lang="tr">Kanal 28</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal 3">
+    <display-name lang="tr">Kanal 3</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal 3 Afyon">
+    <display-name lang="tr">Kanal 3 Afyon</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Kanal 35">
+    <display-name lang="tr">Kanal 35</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal 42">
+    <display-name lang="tr">Kanal 42</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal 58 Sivas">
+    <display-name lang="tr">Kanal 58 Sivas</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Kanal 7">
+    <display-name lang="tr">Kanal 7</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="KANAL 7 HD (34)">
+    <display-name lang="tr">KANAL 7 HD (34)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Kanal 7 SD">
+    <display-name lang="tr">Kanal 7 SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal B">
+    <display-name lang="tr">Kanal B</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal D">
+    <display-name lang="tr">Kanal D</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal D HD (24)">
+    <display-name lang="tr">Kanal D HD (24)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Kanal D SD">
+    <display-name lang="tr">Kanal D SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal Fırat">
+    <display-name lang="tr">Kanal Fırat</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kanal V">
+    <display-name lang="tr">Kanal V</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kardelen Tv">
+    <display-name lang="tr">Kardelen Tv</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="KKTC Kanal T">
+    <display-name lang="tr">KKTC Kanal T</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Koza TV">
+    <display-name lang="tr">Koza TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Köy TV">
+    <display-name lang="tr">Köy TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Kral FM (415)">
+    <display-name lang="tr">Kral FM (415)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Kral Pop Radyo (411)">
+    <display-name lang="tr">Kral Pop Radyo (411)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="KRT">
+    <display-name lang="tr">KRT</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="KRT TV HD (62)">
+    <display-name lang="tr">KRT TV HD (62)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Line TV">
+    <display-name lang="tr">Line TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Love Nature">
+    <display-name lang="tr">Love Nature</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Mavi Karadeniz">
+    <display-name lang="tr">Mavi Karadeniz</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MCM Top HD (101)">
+    <display-name lang="tr">MCM Top HD (101)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Mezzo HD (102)">
+    <display-name lang="tr">Mezzo HD (102)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Milyon">
+    <display-name lang="tr">Milyon</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Minika Çocuk">
+    <display-name lang="tr">Minika Çocuk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Minika GO">
+    <display-name lang="tr">Minika GO</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MinikaGO (170)">
+    <display-name lang="tr">MinikaGO (170)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Action">
+    <display-name lang="tr">MovieSmart Action</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Classic">
+    <display-name lang="tr">MovieSmart Classic</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Family">
+    <display-name lang="tr">MovieSmart Family</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Fest">
+    <display-name lang="tr">MovieSmart Fest</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Gold">
+    <display-name lang="tr">MovieSmart Gold</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Platin">
+    <display-name lang="tr">MovieSmart Platin</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Platin 2">
+    <display-name lang="tr">MovieSmart Platin 2</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Premium">
+    <display-name lang="tr">MovieSmart Premium</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Premium 2">
+    <display-name lang="tr">MovieSmart Premium 2</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MovieSmart Türk">
+    <display-name lang="tr">MovieSmart Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="MTV Hits (109)">
+    <display-name lang="tr">MTV Hits (109)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="MTV Live HD (108)">
+    <display-name lang="tr">MTV Live HD (108)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="MTV Live HD (395)">
+    <display-name lang="tr">MTV Live HD (395)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nat Geo Wild HD (185)">
+    <display-name lang="tr">Nat Geo Wild HD (185)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="tr">National Geographic</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="National Geographic HD (181)">
+    <display-name lang="tr">National Geographic HD (181)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="National Geographic WILD">
+    <display-name lang="tr">National Geographic WILD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="NBA TV">
+    <display-name lang="tr">NBA TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="NBA TV HD">
+    <display-name lang="tr">NBA TV HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="NHK World English">
+    <display-name lang="tr">NHK World English</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Nick Jr. (171)">
+    <display-name lang="tr">Nick Jr. (171)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nickelodeon (172)">
+    <display-name lang="tr">Nickelodeon (172)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nickelodeon HD (173)">
+    <display-name lang="tr">Nickelodeon HD (173)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nickelodeon HD (355)">
+    <display-name lang="tr">Nickelodeon HD (355)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="NR1">
+    <display-name lang="tr">NR1</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="NR1 Türk">
+    <display-name lang="tr">NR1 Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="NTV">
+    <display-name lang="tr">NTV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="NTV HD (41)">
+    <display-name lang="tr">NTV HD (41)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="NTV Spor">
+    <display-name lang="tr">NTV Spor</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="NTV Spor HD">
+    <display-name lang="tr">NTV Spor HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="On4">
+    <display-name lang="tr">On4</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Outdoor">
+    <display-name lang="tr">Outdoor</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Power Türk">
+    <display-name lang="tr">Power Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Power TV">
+    <display-name lang="tr">Power TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Radyo Viva (416)">
+    <display-name lang="tr">Radyo Viva (416)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="RAI UNO (130)">
+    <display-name lang="tr">RAI UNO (130)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Rtr Planeta">
+    <display-name lang="tr">Rtr Planeta</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="RTR PLANETA (135)">
+    <display-name lang="tr">RTR PLANETA (135)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="RTV 23">
+    <display-name lang="tr">RTV 23</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Rumeli Tv">
+    <display-name lang="tr">Rumeli Tv</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Russia-24">
+    <display-name lang="tr">Russia-24</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="S Sport">
+    <display-name lang="tr">S Sport</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="S Sport 2">
+    <display-name lang="tr">S Sport 2</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Sat 7 Türk">
+    <display-name lang="tr">Sat 7 Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Saudi Quran TV">
+    <display-name lang="tr">Saudi Quran TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Saudi Sunnah TV">
+    <display-name lang="tr">Saudi Sunnah TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Show Radyo (414)">
+    <display-name lang="tr">Show Radyo (414)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Show TV">
+    <display-name lang="tr">Show TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Show TV HD (22)">
+    <display-name lang="tr">Show TV HD (22)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Show TV SD">
+    <display-name lang="tr">Show TV SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="ShowMax">
+    <display-name lang="tr">ShowMax</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Sinema 1001">
+    <display-name lang="tr">Sinema 1001</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema 1002">
+    <display-name lang="tr">Sinema 1002</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema 2">
+    <display-name lang="tr">Sinema 2</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema Aile">
+    <display-name lang="tr">Sinema Aile</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema Aile 2">
+    <display-name lang="tr">Sinema Aile 2</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema Aksiyon">
+    <display-name lang="tr">Sinema Aksiyon</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema Aksiyon 2">
+    <display-name lang="tr">Sinema Aksiyon 2</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema Komedi">
+    <display-name lang="tr">Sinema Komedi</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema Komedi 2">
+    <display-name lang="tr">Sinema Komedi 2</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema Yerli">
+    <display-name lang="tr">Sinema Yerli</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Sinema Yerli 2">
+    <display-name lang="tr">Sinema Yerli 2</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="SinemaTV">
+    <display-name lang="tr">SinemaTV</display-name>
+    <url>http://www.sinematv.com.tr</url>
+  </channel>
+  <channel id="Slow Türk (412)">
+    <display-name lang="tr">Slow Türk (412)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Smart Spor">
+    <display-name lang="tr">Smart Spor</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Smart Spor 2">
+    <display-name lang="tr">Smart Spor 2</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Smart Spor 2 HD">
+    <display-name lang="tr">Smart Spor 2 HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Smart Spor HD">
+    <display-name lang="tr">Smart Spor HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Spor Smart">
+    <display-name lang="tr">Spor Smart</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Sports Tv">
+    <display-name lang="tr">Sports Tv</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Star">
+    <display-name lang="tr">Star</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Star TV HD (27)">
+    <display-name lang="tr">Star TV HD (27)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="STAR TV SD">
+    <display-name lang="tr">STAR TV SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Taraftar 2 HD (205)">
+    <display-name lang="tr">Taraftar 2 HD (205)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Taraftar HD (204)">
+    <display-name lang="tr">Taraftar HD (204)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TAY TV">
+    <display-name lang="tr">TAY TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TBF TV">
+    <display-name lang="tr">TBF TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Tele 1">
+    <display-name lang="tr">Tele 1</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TELE 1 HD (48)">
+    <display-name lang="tr">TELE 1 HD (48)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Test kanalı">
+    <display-name lang="tr">Test kanalı</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="teve2">
+    <display-name lang="tr">teve2</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Teve2 HD (54)">
+    <display-name lang="tr">Teve2 HD (54)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="teve2 SD">
+    <display-name lang="tr">teve2 SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TGRT Belgesel">
+    <display-name lang="tr">TGRT Belgesel</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TGRT EU">
+    <display-name lang="tr">TGRT EU</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TGRT Haber">
+    <display-name lang="tr">TGRT Haber</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TGRT Haber HD (45)">
+    <display-name lang="tr">TGRT Haber HD (45)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Tivibu Spor">
+    <display-name lang="tr">Tivibu Spor</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Tivibu Spor 2">
+    <display-name lang="tr">Tivibu Spor 2</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Tivibu Spor 3">
+    <display-name lang="tr">Tivibu Spor 3</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Tivibu Spor 4">
+    <display-name lang="tr">Tivibu Spor 4</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="TJK TV (89)">
+    <display-name lang="tr">TJK TV (89)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="tr">TLC</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TLC HD (30)">
+    <display-name lang="tr">TLC HD (30)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TMB">
+    <display-name lang="tr">TMB</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="tr">Trace Urban</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT 1">
+    <display-name lang="tr">TRT 1</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT 1 HD (23)">
+    <display-name lang="tr">TRT 1 HD (23)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT 1 SD">
+    <display-name lang="tr">TRT 1 SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="trt 2">
+    <display-name lang="tr">trt 2</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT 2 HD (66)">
+    <display-name lang="tr">TRT 2 HD (66)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT 3 - TRT Spor (56)">
+    <display-name lang="tr">TRT 3 - TRT Spor (56)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT 3 Spor">
+    <display-name lang="tr">TRT 3 Spor</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT 4K">
+    <display-name lang="tr">TRT 4K</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Arabi">
+    <display-name lang="tr">TRT Arabi</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Arabi (133)">
+    <display-name lang="tr">TRT Arabi (133)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT Avaz">
+    <display-name lang="tr">TRT Avaz</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT AVAZ (57)">
+    <display-name lang="tr">TRT AVAZ (57)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT Belgesel">
+    <display-name lang="tr">TRT Belgesel</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Belgesel HD (190)">
+    <display-name lang="tr">TRT Belgesel HD (190)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Trt Belgesel SD">
+    <display-name lang="tr">Trt Belgesel SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Çocuk">
+    <display-name lang="tr">TRT Çocuk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Çocuk (160)">
+    <display-name lang="tr">TRT Çocuk (160)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT EBA TV İlkokul">
+    <display-name lang="tr">TRT EBA TV İlkokul</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT EBA TV İlkokul SD">
+    <display-name lang="tr">TRT EBA TV İlkokul SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT EBA TV Lise">
+    <display-name lang="tr">TRT EBA TV Lise</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT EBA TV Lise SD">
+    <display-name lang="tr">TRT EBA TV Lise SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT EBA TV Ortaokul">
+    <display-name lang="tr">TRT EBA TV Ortaokul</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT EBA TV Ortaokul SD">
+    <display-name lang="tr">TRT EBA TV Ortaokul SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT EBATV İLKOKUL HD (151)">
+    <display-name lang="tr">TRT EBATV İLKOKUL HD (151)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT EBATV LİSE HD (153)">
+    <display-name lang="tr">TRT EBATV LİSE HD (153)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT EBATV ORTAOKUL HD (152)">
+    <display-name lang="tr">TRT EBATV ORTAOKUL HD (152)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT Haber">
+    <display-name lang="tr">TRT Haber</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Haber HD (33)">
+    <display-name lang="tr">TRT Haber HD (33)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT Haber SD">
+    <display-name lang="tr">TRT Haber SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Kurdi">
+    <display-name lang="tr">TRT Kurdi</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Kurdi (58)">
+    <display-name lang="tr">TRT Kurdi (58)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT Müzik">
+    <display-name lang="tr">TRT Müzik</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Müzik (104)">
+    <display-name lang="tr">TRT Müzik (104)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT Spor">
+    <display-name lang="tr">TRT Spor</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="TRT Spor (886)">
+    <display-name lang="tr">TRT Spor (886)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Trt Spor 2">
+    <display-name lang="tr">Trt Spor 2</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT Spor 2 HD (87)">
+    <display-name lang="tr">TRT Spor 2 HD (87)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT Spor HD">
+    <display-name lang="tr">TRT Spor HD</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="TRT SPOR HD (86)">
+    <display-name lang="tr">TRT SPOR HD (86)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Trt Spor SD">
+    <display-name lang="tr">Trt Spor SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT TURK (61)">
+    <display-name lang="tr">TRT TURK (61)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT Türk">
+    <display-name lang="tr">TRT Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT World">
+    <display-name lang="tr">TRT World</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TRT World HD (142)">
+    <display-name lang="tr">TRT World HD (142)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT World HD (342)">
+    <display-name lang="tr">TRT World HD (342)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT1 HD (323)">
+    <display-name lang="tr">TRT1 HD (323)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Turkcell TV Plus">
+    <display-name lang="tr">Turkcell TV Plus</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Turkish Silk">
+    <display-name lang="tr">Turkish Silk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Türkçe Müzik">
+    <display-name lang="tr">Türkçe Müzik</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Tv 100">
+    <display-name lang="tr">Tv 100</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TV 100 HD (37)">
+    <display-name lang="tr">TV 100 HD (37)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Tv 5">
+    <display-name lang="tr">Tv 5</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Tv 52">
+    <display-name lang="tr">Tv 52</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TV 8 SD">
+    <display-name lang="tr">TV 8 SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TV 8.5">
+    <display-name lang="tr">TV 8.5</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="TV Den">
+    <display-name lang="tr">TV Den</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TV Net">
+    <display-name lang="tr">TV Net</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TV4">
+    <display-name lang="tr">TV4</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TV5 Monde Europe (131)">
+    <display-name lang="tr">TV5 Monde Europe (131)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TV8">
+    <display-name lang="tr">TV8</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="TV8 HD (28)">
+    <display-name lang="tr">TV8 HD (28)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TVNET">
+    <display-name lang="tr">TVNET</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="TVNET HD (39)">
+    <display-name lang="tr">TVNET HD (39)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Tvnet SD">
+    <display-name lang="tr">Tvnet SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Twitch TV">
+    <display-name lang="tr">Twitch TV</display-name>
+    <url>http://www.sporekrani.com</url>
+  </channel>
+  <channel id="Uçan Kuş TV (50)">
+    <display-name lang="tr">Uçan Kuş TV (50)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Uçankuş TV">
+    <display-name lang="tr">Uçankuş TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="ULKE TV SD">
+    <display-name lang="tr">ULKE TV SD</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Ulusal TV">
+    <display-name lang="tr">Ulusal TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Uzay TV">
+    <display-name lang="tr">Uzay TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Ülke TV">
+    <display-name lang="tr">Ülke TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Ülke TV HD (38)">
+    <display-name lang="tr">Ülke TV HD (38)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Vatan TV">
+    <display-name lang="tr">Vatan TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="VH1 (103)">
+    <display-name lang="tr">VH1 (103)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Viasat History">
+    <display-name lang="tr">Viasat History</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Vizyon Türk">
+    <display-name lang="tr">Vizyon Türk</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Yaban TV (189)">
+    <display-name lang="tr">Yaban TV (189)</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Yeni Kocaeli TV">
+    <display-name lang="tr">Yeni Kocaeli TV</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+</tv>
